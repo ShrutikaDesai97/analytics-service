@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: your-ecr-repo-id.dkr.ecr.ap-south-1.amazonaws.com/java-microservice-user
+  repository: 491387211183.dkr.ecr.ap-south-1.amazonaws.com/analytics-service
   tag: latest
   pullPolicy: IfNotPresent
 service:
